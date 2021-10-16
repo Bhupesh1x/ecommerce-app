@@ -17,9 +17,9 @@ function Home() {
           <Product
             key="1001"
             id="1001"
-            title="Enjoy all your favourite latest games without breaking the bank. Starts from The gaming beast"
+            title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
             price={29.99}
-            image="https://i.pinimg.com/originals/1a/89/5f/1a895f1c8cb2c1656808e0a4b5a0c57a.png"
+            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
             rating={5}
           />
           <Product
@@ -43,9 +43,9 @@ function Home() {
           <Product
             key="1004"
             id="1004"
-            title="G15 Gaming Laptop 10th Generation Intel® Core™ i5-10200H"
+            title="Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric"
             price={98.99}
-            image="https://consumer-img.huawei.com/content/dam/huawei-cbg-site/en/support/laptop-user-guide/img/laptop.png"
+            image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$"
             rating={5}
           />
           <Product
